@@ -1,46 +1,66 @@
- Financial Calculator – Project Statement
+ Financial Calculator Project
 
-Student Details
-Name: Ayushi Dubey  
-Course: CSE  
-Registration No.:25MIM10174  
+ Project Statement
+
+This Financial Calculator is a comprehensive tool designed to perform various financial calculations to assist users in making informed financial decisions. The application provides an intuitive interface for calculating key financial metrics that are essential for personal and business finance management.
+
+ Purpose
+
+The primary purpose of this financial calculator is to:
+- Simplify complex financial calculations
+- Provide accurate results for financial planning
+- Help users understand different financial scenarios
+- Support both personal and business financial decision-making
+
+ Key Features
+
+- Compound Interest Calculator: Calculate future investment values with compound interest
+- Loan Payment Calculator: Determine monthly payments for loans with different terms
+- Mortgage Calculator: Compute mortgage payments including principal and interest
+- Retirement Planning: Project retirement savings growth over time
+- Investment Return Analysis: Calculate returns on various investment types
+- Currency Conversion: Convert between different currencies using current exchange rates
+- Tax Calculations: Estimate tax liabilities and after-tax returns
+
+## Technical Implementation
+
+- Built with modern web technologies (HTML, CSS, JavaScript)
+- Responsive design for mobile and desktop use
+- Real-time calculation updates
+- Data validation and error handling
+- Local storage for user preferences
+
+## Target Audience
+
+- Individual investors
+- Financial advisors
+- Small business owners
+- Students learning finance
+- Anyone interested in personal financial planning
+
+## Educational Value
+
+This project serves as both a practical tool and an educational resource, helping users understand:
+- Time value of money concepts
+- Impact of interest rates on loans and investments
+- Importance of early retirement planning
+- Effects of inflation on long-term savings
+
+## Disclaimer
+
+This financial calculator provides estimates for educational and planning purposes only. The results should not be considered as financial advice. Users should consult with qualified financial professionals for personalized financial guidance.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License Summary:
+- ✅ Free to use for personal and commercial projects
+- ✅ Permission to modify and distribute
+- ✅ Can be used in private and public projects
+- ✅ Must include original license and copyright notice
+- ❌ No warranty provided
+- ❌ Not liable for damages
 
 
-Problem Statement
-People frequently struggle with interest and investment calculations while taking loans, saving funds, or investing in financial schemes. Manual calculation is time-consuming and often inaccurate. Therefore, a tool is needed that can provide quick, reliable, and accurate financial computations.
 
-Scope of the Project
-This project aims to develop a *Financial Calculator* that provides the following computation features:
-
-- Simple Interest Calculation  
-- Compound Interest Calculation  
-- EMI (Equated Monthly Installment) Calculation  
-- SIP (Systematic Investment Plan) Calculation  
-
-The system will:
-- Take financial inputs from users.
-- Validate inputs to avoid incorrect values.
-- Process calculations based on standard financial formulas.
-- Display accurate computed results instantly.
-
-
- Target Users
-- Students studying finance or mathematics.
-- Individuals planning loans or investments.
-- Banking & finance trainees.
-- Anyone needing quick and reliable interest calculations.
-
-
- High-Level Features
-| Feature | Description |
-|--------|--------------|
-| Simple Interest | Calculates interest using principal, rate, and time. |
-| Compound Interest | Computes compound interest with compounding frequency. |
-| EMI Calculator | Calculates monthly EMI for loans based on rate and tenure. |
-| SIP Calculator | Estimates maturity value of monthly investments. |
-| Validations | Ensures correct and non-negative user input. |
-| User Interaction | Interactive menu-based console application. |
-
-
-
- End of File
