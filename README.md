@@ -7,10 +7,10 @@ A beginner-friendly Python application for performing basic financial calculatio
 
 ## Features
 
-- **Simple Interest Calculator**  
+- Simple Interest Calculator 
   Calculate simple interest using the formula:  
   $$\text{Simple Interest (SI)} = \frac{P \times R \times T}{100}$$  
-  where *P* is principal, *R* is annual interest rate (%), and *T* is time (years).[1]
+  where *P* is principal, *R* is annual interest rate (%), and *T* is time (years).
 
 - **Compound Interest Calculator**  
   Computes compound interest considering principal, rate, time, and number of compounding periods per year.
@@ -47,7 +47,7 @@ A beginner-friendly Python application for performing basic financial calculatio
   - Enter principal amount, rate, and time in years.
   - The program calculates interest:  
     $$ \text{SI} = \frac{P \times R \times T}{100} $$  
-  - Displays interest and total amount.[1]
+  - Displays interest and total amount.
 - **Compound Interest Example:**  
   - Enter principal, annual rate, years, and number of compounding periods per year.
   - The program computes and shows compound interest and final value.
@@ -62,7 +62,7 @@ A beginner-friendly Python application for performing basic financial calculatio
 This project is for educational and personal use only.
 
 
-For more info about the simple interest formula, see.[1]
+For more info about the simple interest formula, see.
 
 [1](https://testbook.com/maths/simple-interest)
 [2](https://blog.xqa.io/programming-tutorials/python-simple-interest-program/)
